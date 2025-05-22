@@ -1,7 +1,7 @@
 # Assignments from SQL Database Design & Programming (CTS2433) 2023  
 This course is designed to familiarize students with SQL (Structured Query Language) in a relational database environment to include database programming and development. A series of database application assignments using SQL commands is designed to promote competency in ER (Entity Relationship) database modeling, database creation, database programming, and database optimization. The objective is to build a working knowledge and hands-on understanding of SQL.  
 ### Rest of assignments are uploaded in each folder, with more complex more SQL queries and concepts
-
+ 
 # Module 2
 ### Determine the functional dependencies that exist in the following table and then convert this table to an equivalent collection of tables that are in third normal form.  
 ```
