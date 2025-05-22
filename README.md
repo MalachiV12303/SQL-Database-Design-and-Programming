@@ -73,3 +73,6 @@ Below are screenshots showing I have all the correct data, residents I copied fr
 ![mod3q6d](https://github.com/user-attachments/assets/41ad8b3c-56c7-435c-952e-5ad8cb857d94)
 
 ![mod3q6e](https://github.com/user-attachments/assets/75d53c8a-4764-4246-92cf-8f2484c9a147)
+
+
+## Rest of assignments are uploaded in each folder, with more complex more SQL queries and concepts
